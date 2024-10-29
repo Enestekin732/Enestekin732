@@ -10,11 +10,11 @@
 
 <h3 align="left">&nbsp;Merhaba Ben Enes Türk Bir Geliştiriciyim</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 Profilime Hoşgeldin <3
 
-- 💬 Ask me about **Blockchain**
+- 💬 bir sorun mu var? **[Bana Discord Ulaşabilirsin!](https://discord.gg/wnerscode)**
 
-- 📫 How to reach me **cloxarge@gmail.com**
+- 📫 Gmail Adresim: **cloxarge@gmail.com**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/EnesTekin?theme=unicorn)](https://leetcode.com/EnesTekin/)
 
