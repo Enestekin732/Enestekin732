@@ -1,15 +1,15 @@
 ![MasterHead](https://github.com/Enes/Enes/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
- <a href="https://github.com/Enes">
+ <a href="https://github.com/Enestekin732">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Enes+Tekin+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+<img src="https://github.com/EnesTekin732/EnesTekin732/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp;Merhaba Ben Enes Türk Bİr Geliştiriciyim</h3>
+<h3 align="left">&nbsp;Merhaba Ben Enes Türk Bir Geliştiriciyim</h3>
 
 - 🔭 I’m currently working on **React**
 
