@@ -23,9 +23,9 @@
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <a href="https://linkedin.com/in/@enes1767-l9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://medium.com/@cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
+<a href="https://medium.com/@enes1767-l9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@enes1767-l9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/@enes1767-l9x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
@@ -59,7 +59,8 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Rxmlo Inc](https://ytcards.demolab.com/?id=FdOr3yz6vKE&title=DevCom.web.tr&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevCom.web.tr")](https://www.youtube.com/watch?v=FdOr3yz6vKE)
+[![Rxmlo Inc](https://ytcards.demolab.com/?id=FdOr3yz6vKE&title=DevCom.web.tr&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "De 
+ "Ztrox Tanıtım")](https://www.youtube.com/watch?v=FdOr3yz6vKE)
 [![Ztrox Tanıtım](https://ytcards.demolab.com/?id=Hr0EJA1k8jE&title=ChatGPT+V4+Deneyimim&lang=en&timestamp=1689778816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ztrox Tanıtım")]([https://www.youtube.com/watch?v=Hr0EJA1k8jE](https://youtu.be/WVM2HuqupLI?si=kPJwC94Mgol0OMc7))
 [![What Typing 100 WPM (Words Per Minute) Looks Like?](https://ytcards.demolab.com/?id=PANX3XgEbYU&title=What+Typing+100+WPM+%28Words+Per+Minute%29+Looks+Like%3F&lang=en&timestamp=1689498011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Typing 100 WPM (Words Per Minute) Looks Like?")](https://www.youtube.com/watch?v=PANX3XgEbYU)
 [![LeetCode Görevleri 973 - K Closest Points to Origin](https://ytcards.demolab.com/?id=BF9uAT3Nv4g&title=LeetCode+G%C3%B6revleri+973+-+K+Closest+Points+to+Origin&lang=en&timestamp=1689253207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "LeetCode Görevleri 973 - K Closest Points to Origin")](https://www.youtube.com/watch?v=BF9uAT3Nv4g)
